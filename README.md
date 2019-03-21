@@ -1,7 +1,6 @@
 <html>
   <head>
-    <style="
-            @keyframes discord {
+    <style>@keyframes discord {
 	0% {height:70px; width:250px;}
 	 100% {height:500px;width:350px;}
 }
@@ -25,7 +24,7 @@
 	animation-name: discord;
 	animation-duration: 2s;
 	animation-play-state: pause;
-}
+}</style>
 </head>
 <body>
 <div>
